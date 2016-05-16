@@ -17,7 +17,7 @@ chrome.webRequest.onBeforeRequest.addListener(
   // filters
   {
     urls: [
-      "*://*/search?*q=*.dev*"
+      "*://*/search?*q=*.jim*"
     ]
   },
   // extraInfoSpec
